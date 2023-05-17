@@ -47,3 +47,7 @@ that your code will pass before pushing by running `npm run lint:md` locally.
   - "_Require status checks to pass before merging_"
   - "_Require branches to be up to date before merging_"
   - "_Do not allow bypassing the above settings_"
+
+## My project
+
+- in this project im gonna present my self
